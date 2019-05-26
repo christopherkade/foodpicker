@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<LinkCard /> Snapshots should match snapshot 1`] = `
+<div>
+  <div
+    class="sc-bdVaJa ctMcSt"
+  >
+    <p
+      class="sc-bwzfXH ePLGZB"
+    >
+      Share this link with your friends!
+    </p>
+    <input
+      class="sc-htpNat FgSYl"
+      readonly=""
+      value="mockedLink"
+    />
+  </div>
+</div>
+`;

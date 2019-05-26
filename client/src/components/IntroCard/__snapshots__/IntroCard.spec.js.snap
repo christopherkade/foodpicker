@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<IntroCard /> Snapshots should match snapshot 1`] = `
+<div>
+  <div
+    class="sc-bdVaJa eesVxK"
+  >
+    <h1
+      class="sc-bwzfXH eXiyGK"
+    >
+      Welcome to Fastfood
+    </h1>
+    <span
+      aria-label=""
+      role="img"
+    >
+      🍕🥑🍣🍜
+    </span>
+    <p
+      class="sc-htpNat hEytle"
+    >
+      The easiest way to pick what to eat !
+    </p>
+    <button
+      class="sc-bxivhb vcWxY"
+    >
+      Start a session
+    </button>
+  </div>
+</div>
+`;

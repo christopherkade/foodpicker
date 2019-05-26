@@ -1,0 +1,364 @@
+{
+  "foods": [
+    {
+      "emoji": "🍚",
+      "score": "4",
+      "name": "Rice"
+    },
+    {
+      "emoji": "🍕",
+      "score": "2",
+      "name": "Pizza"
+    },
+    {
+      "emoji": "🍔",
+      "score": "3",
+      "name": "Burger"
+    },
+    {
+      "emoji": "🍣",
+      "score": "-4",
+      "name": "Sushi"
+    },
+    {
+      "emoji": "🍟",
+      "score": "6",
+      "name": "Fries"
+    },
+    {
+      "emoji": "🌭",
+      "score": "1",
+      "name": "Hotdog"
+    },
+    {
+      "emoji": "🥓",
+      "score": "-3",
+      "name": "Bacon"
+    },
+    {
+      "emoji": "🥚",
+      "score": "4",
+      "name": "Eggs"
+    },
+    {
+      "emoji": "🥞",
+      "score": "-3",
+      "name": "Pancakes"
+    },
+    {
+      "emoji": "🍞",
+      "score": "2",
+      "name": "Bread"
+    },
+    {
+      "emoji": "🥨",
+      "score": "-4",
+      "name": "Pretzel"
+    },
+    {
+      "emoji": "🧀",
+      "score": "3",
+      "name": "Cheese"
+    },
+    {
+      "emoji": "🥗",
+      "score": "-5",
+      "name": "Salad"
+    },
+    {
+      "emoji": "🥙",
+      "score": "-6",
+      "name": "Burito"
+    },
+    {
+      "emoji": "🥪",
+      "score": "-3",
+      "name": "Egg Sandwich"
+    },
+    {
+      "emoji": "🌮",
+      "score": "1",
+      "name": "Taco"
+    },
+    {
+      "emoji": "🍖",
+      "score": "3",
+      "name": "Pork"
+    },
+    {
+      "emoji": "🍗",
+      "score": "4",
+      "name": "Chicken"
+    },
+    {
+      "emoji": "🥩",
+      "score": "8",
+      "name": "Steak"
+    },
+    {
+      "emoji": "🦐",
+      "score": "-5",
+      "name": "Shrimp"
+    },
+    {
+      "emoji": "🐟",
+      "score": "-5",
+      "name": "Fish"
+    },
+    {
+      "emoji": "🦀",
+      "score": "-6",
+      "name": "Crab"
+    },
+    {
+      "emoji": "🐙",
+      "score": "-7",
+      "name": "Octopus"
+    },
+    {
+      "emoji": "🦑",
+      "score": "-7",
+      "name": "Squid"
+    },
+    {
+      "emoji": "🍅",
+      "score": "-2",
+      "name": "Tomatoes"
+    },
+    {
+      "emoji": "🍄",
+      "score": "-10",
+      "name": "Mushrooms"
+    },
+    {
+      "emoji": "🌽",
+      "score": "1",
+      "name": "Corn"
+    },
+    {
+      "emoji": "🥒",
+      "score": "-3",
+      "name": "Cucumber"
+    },
+    {
+      "emoji": "🍆",
+      "score": "-5",
+      "name": "Eggplant"
+    },
+    {
+      "emoji": "🥑",
+      "score": "-5",
+      "name": "Avocado"
+    },
+    {
+      "emoji": "🥔",
+      "score": "8",
+      "name": "Potatoes"
+    },
+    {
+      "emoji": "🥦",
+      "score": "-6",
+      "name": "Broccoli"
+    },
+    {
+      "emoji": "🥕",
+      "score": "3",
+      "name": "Carrots"
+    },
+    {
+      "emoji": "🥡",
+      "score": "1",
+      "name": "Noodles"
+    },
+    {
+      "emoji": "🍱",
+      "score": "1",
+      "name": "Bento Box"
+    },
+    {
+      "emoji": "🍙",
+      "score": "-2",
+      "name": "Riceball"
+    },
+    {
+      "emoji": "🍛",
+      "score": "4",
+      "name": "Curry with Rice"
+    },
+    {
+      "emoji": "🍜",
+      "score": "4",
+      "name": "Ramen"
+    },
+    {
+      "emoji": "🥟",
+      "score": "1",
+      "name": "Dumpling"
+    },
+    {
+      "emoji": "🍲",
+      "score": "-6",
+      "name": "Mushroom Soup"
+    },
+    {
+      "emoji": "🍝",
+      "score": "4",
+      "name": "Pasta"
+    },
+    {
+      "emoji": "🥘",
+      "score": "-3",
+      "name": "Paella"
+    },
+    {
+      "emoji": "🥣",
+      "score": "2",
+      "name": "Cereal"
+    },
+    {
+      "emoji": "🥜",
+      "score": "2",
+      "name": "Peanuts"
+    },
+    {
+      "emoji": "🍿",
+      "score": "2",
+      "name": "Salted Popcorn"
+    },
+    {
+      "emoji": "🥧",
+      "score": "-3",
+      "name": "Pie"
+    },
+    {
+      "emoji": "🍦",
+      "score": "3",
+      "name": "Ice-cream"
+    },
+    {
+      "emoji": "🍩",
+      "score": "3",
+      "name": "Krispy Kreme"
+    },
+    {
+      "emoji": "🍪",
+      "score": "-2",
+      "name": "Chips Ahoy"
+    },
+    {
+      "emoji": "🎂",
+      "score": "5",
+      "name": "Chocolate Cake"
+    },
+    {
+      "emoji": "🍰",
+      "score": "-5",
+      "name": "Strawberry Shortcake"
+    },
+    {
+      "emoji": "🍫",
+      "score": "3",
+      "name": "Chocolate"
+    },
+    {
+      "emoji": "🍬",
+      "score": "4",
+      "name": "Sweeties"
+    },
+    {
+      "emoji": "🍮",
+      "score": "-1",
+      "name": "Pudding"
+    },
+    {
+      "emoji": "🥝",
+      "score": "-3",
+      "name": "Kiwi"
+    },
+    {
+      "emoji": "🍇",
+      "score": "3",
+      "name": "Grapes"
+    },
+    {
+      "emoji": "🍉",
+      "score": "0",
+      "name": "Watermelon"
+    },
+    {
+      "emoji": "🍊",
+      "score": "2",
+      "name": "Oranges"
+    },
+    {
+      "emoji": "🍌",
+      "score": "5",
+      "name": "Bananas"
+    },
+    {
+      "emoji": "🍍",
+      "score": "1",
+      "name": "Pineapples"
+    },
+    {
+      "emoji": "🍎",
+      "score": "2",
+      "name": "Apples"
+    },
+    {
+      "emoji": "🍓",
+      "score": "4",
+      "name": "Strawberries"
+    },
+    {
+      "emoji": "🍑",
+      "score": "-3",
+      "name": "Peaches"
+    },
+    {
+      "emoji": "🍐",
+      "score": "3",
+      "name": "Pears"
+    },
+    {
+      "emoji": "🍒",
+      "score": "-2",
+      "name": "Cherries"
+    },
+    {
+      "emoji": "🥛",
+      "score": "1",
+      "name": "Milk"
+    },
+    {
+      "emoji": "☕",
+      "score": "-5",
+      "name": "Coffee"
+    },
+    {
+      "emoji": "🍵",
+      "score": "-3",
+      "name": "Tea"
+    },
+    {
+      "emoji": "🥤",
+      "score": "6",
+      "name": "Coke"
+    },
+    {
+      "emoji": "🍺",
+      "score": "-3",
+      "name": "Beer"
+    },
+    {
+      "emoji": "🍷",
+      "score": "-4",
+      "name": "Wine"
+    },
+    {
+      "emoji": "🍾",
+      "score": "4",
+      "name": "Apple Cider"
+    }
+  ]
+}

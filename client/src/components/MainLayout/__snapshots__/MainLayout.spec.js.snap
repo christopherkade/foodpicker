@@ -1,0 +1,776 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
+<div>
+  <div
+    class="sc-gzVnrw kugQOZ"
+  >
+    <ul
+      class="sc-bwzfXH dMyKrs"
+    >
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Rice"
+          role="img"
+        >
+          🍚
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Pizza"
+          role="img"
+        >
+          🍕
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Burger"
+          role="img"
+        >
+          🍔
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Sushi"
+          role="img"
+        >
+          🍣
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Fries"
+          role="img"
+        >
+          🍟
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Hotdog"
+          role="img"
+        >
+          🌭
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Bacon"
+          role="img"
+        >
+          🥓
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Eggs"
+          role="img"
+        >
+          🥚
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Pancakes"
+          role="img"
+        >
+          🥞
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Bread"
+          role="img"
+        >
+          🍞
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Pretzel"
+          role="img"
+        >
+          🥨
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Cheese"
+          role="img"
+        >
+          🧀
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Salad"
+          role="img"
+        >
+          🥗
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Burito"
+          role="img"
+        >
+          🥙
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Egg Sandwich"
+          role="img"
+        >
+          🥪
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Taco"
+          role="img"
+        >
+          🌮
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Pork"
+          role="img"
+        >
+          🍖
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Chicken"
+          role="img"
+        >
+          🍗
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Steak"
+          role="img"
+        >
+          🥩
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Shrimp"
+          role="img"
+        >
+          🦐
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Fish"
+          role="img"
+        >
+          🐟
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Crab"
+          role="img"
+        >
+          🦀
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Octopus"
+          role="img"
+        >
+          🐙
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Squid"
+          role="img"
+        >
+          🦑
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Tomatoes"
+          role="img"
+        >
+          🍅
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Mushrooms"
+          role="img"
+        >
+          🍄
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Corn"
+          role="img"
+        >
+          🌽
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Cucumber"
+          role="img"
+        >
+          🥒
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Eggplant"
+          role="img"
+        >
+          🍆
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Avocado"
+          role="img"
+        >
+          🥑
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Potatoes"
+          role="img"
+        >
+          🥔
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Broccoli"
+          role="img"
+        >
+          🥦
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Carrots"
+          role="img"
+        >
+          🥕
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Noodles"
+          role="img"
+        >
+          🥡
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Bento Box"
+          role="img"
+        >
+          🍱
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Riceball"
+          role="img"
+        >
+          🍙
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Curry with Rice"
+          role="img"
+        >
+          🍛
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Ramen"
+          role="img"
+        >
+          🍜
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Dumpling"
+          role="img"
+        >
+          🥟
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Mushroom Soup"
+          role="img"
+        >
+          🍲
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Pasta"
+          role="img"
+        >
+          🍝
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Paella"
+          role="img"
+        >
+          🥘
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Cereal"
+          role="img"
+        >
+          🥣
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Peanuts"
+          role="img"
+        >
+          🥜
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Salted Popcorn"
+          role="img"
+        >
+          🍿
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Pie"
+          role="img"
+        >
+          🥧
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Ice-cream"
+          role="img"
+        >
+          🍦
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Krispy Kreme"
+          role="img"
+        >
+          🍩
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Chips Ahoy"
+          role="img"
+        >
+          🍪
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Chocolate Cake"
+          role="img"
+        >
+          🎂
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Strawberry Shortcake"
+          role="img"
+        >
+          🍰
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Chocolate"
+          role="img"
+        >
+          🍫
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Sweeties"
+          role="img"
+        >
+          🍬
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Pudding"
+          role="img"
+        >
+          🍮
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Kiwi"
+          role="img"
+        >
+          🥝
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Grapes"
+          role="img"
+        >
+          🍇
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Watermelon"
+          role="img"
+        >
+          🍉
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Oranges"
+          role="img"
+        >
+          🍊
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Bananas"
+          role="img"
+        >
+          🍌
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Pineapples"
+          role="img"
+        >
+          🍍
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Apples"
+          role="img"
+        >
+          🍎
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Strawberries"
+          role="img"
+        >
+          🍓
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Peaches"
+          role="img"
+        >
+          🍑
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Pears"
+          role="img"
+        >
+          🍐
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Cherries"
+          role="img"
+        >
+          🍒
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Milk"
+          role="img"
+        >
+          🥛
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Coffee"
+          role="img"
+        >
+          ☕
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Tea"
+          role="img"
+        >
+          🍵
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Coke"
+          role="img"
+        >
+          🥤
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Beer"
+          role="img"
+        >
+          🍺
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Wine"
+          role="img"
+        >
+          🍷
+        </span>
+      </button>
+      <button
+        class="sc-bdVaJa dAgwcY"
+      >
+        <span
+          aria-label="Apple Cider"
+          role="img"
+        >
+          🍾
+        </span>
+      </button>
+    </ul>
+    <div
+      class="sc-htoDjs yQdTN"
+    >
+      <div
+        class="sc-EHOje YINzU"
+      >
+        <input
+          class="sc-bZQynM ggbtGq"
+          readonly=""
+          value=""
+        />
+        <input
+          class="sc-bZQynM ggbtGq"
+          readonly=""
+          value=""
+        />
+        <input
+          class="sc-bZQynM ggbtGq"
+          readonly=""
+          value=""
+        />
+        <input
+          class="sc-bZQynM ggbtGq"
+          readonly=""
+          value=""
+        />
+      </div>
+      <div
+        class="sc-htpNat dgczwS"
+      >
+        <p
+          class="sc-bxivhb kXztPF"
+        >
+          Share this link with your friends!
+        </p>
+        <input
+          class="sc-ifAKCX bfYiE"
+          readonly=""
+          value="Fetching link..."
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
