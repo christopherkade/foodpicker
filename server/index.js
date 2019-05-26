@@ -15,6 +15,33 @@ const getCurrentUser = (userId, session) => {
   return session.users.find(user => user.userId === userId)
 }
 
+/**
+ * Gets the total food count of a given session
+ * @param {*} sessionId
+ */
+const getFoodCount = (sessionId) => {
+  const currentSession = getCurrentSession(sessionId)
+
+  let matchingFood = currentSession.users.map((user) => {
+    return user.food
+  })
+
+  const counts = matchingFood.reduce((count, arr) => {
+    arr.forEach((obj) => {
+      if (!count[obj.name]) {
+        count[obj.name] = {
+          obj,
+          count: 0
+        }
+      }
+      count[obj.name].count += 1
+    })
+    return count
+  }, {})
+
+  return counts
+}
+
 io.on('connection', (socket) => {
   console.log("*** New client connected ***")
 
@@ -49,6 +76,12 @@ io.on('connection', (socket) => {
     console.log("New client joining", sessionId)
 
     const currentSession = getCurrentSession(sessionId)
+
+    if (!currentSession) {
+      console.warn("User trying to join a non-existing session")
+      return
+    }
+
     const userId = currentSession.users.length
     currentSession.users.push({
       userId,
@@ -67,7 +100,13 @@ io.on('connection', (socket) => {
     console.log(`Adding foods ${food} for user ${userId} in session ${sessionId}`);
     const currentSession = getCurrentSession(sessionId)
     const currentUser = getCurrentUser(userId, currentSession)
-    currentUser.food = [...food]
+    currentUser.food = food
+
+    const foodCount = getFoodCount(sessionId)
+
+    // TODO: Fix bug where food isn't updated
+    // TODO: Make sure only the people in a given session are updated
+    socket.emit("food-count-update", foodCount)
   })
 
   // TODO: Handle disconnections

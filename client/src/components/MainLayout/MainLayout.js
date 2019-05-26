@@ -5,6 +5,8 @@ import useWebsockets from "../../hooks/useWebsockets"
 import { EmojiLayout } from "../EmojiLayout"
 import { LinkCard } from "../LinkCard"
 import { UserSelection } from "../UserSelection"
+import { CompareButton } from "../CompareButton"
+import { CompareModal } from "../CompareModal"
 
 const Wrapper = styled.div`
   width: 100%;
@@ -23,7 +25,8 @@ const BottomWrapper = styled.div`
 
 const MainLayout = () => {
   const [selections, setSelections] = useState(Array(4).fill({ name: "", emoji: "" }))
-  const [{ link, sessionId, userId }, addFood] = useWebsockets()
+  const [compared, setCompared] = useState(false)
+  const [{ link, sessionId, userId, foodCount }, { addFood }] = useWebsockets()
 
   /**
    * On food click, add an item to our selection array
@@ -46,13 +49,24 @@ const MainLayout = () => {
     })
   }
 
+  /**
+   * Triggers the comparison and displays the comparison layout
+   */
+  const handleCompare = () => {
+    setCompared(true)
+  }
+
   return (
     <Wrapper>
-      <EmojiLayout onClick={handleEmoijiClick} />
-      <BottomWrapper>
-        <UserSelection selections={selections} />
-        <LinkCard link={link} />
-      </BottomWrapper>
+      <>
+        <EmojiLayout onClick={handleEmoijiClick} />
+        <BottomWrapper>
+          <UserSelection selections={selections} />
+          <CompareButton onClick={handleCompare} />
+          <LinkCard link={link} />
+        </BottomWrapper>
+      </>
+      {compared ? <CompareModal count={foodCount} onClick={() => setCompared(false)} /> : null}
     </Wrapper>
   )
 }

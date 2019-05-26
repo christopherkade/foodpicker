@@ -7,6 +7,7 @@ const socket = socketIOClient("http://localhost:3001");
 /* eslint-disable */
 const useWebsockets = () => {
   const [link, setLink] = useState("Fetching link...")
+  const [foodCount, setFoodCount] = useState()
   const [userId, setUserId] = useState()
   const [sessionId, setSessionId] = useState()
 
@@ -37,10 +38,16 @@ const useWebsockets = () => {
   }, [])
 
   const addFood = (food, sessionId, userId) => {
+    console.log("ADD FOOD: ", food)
     socket.emit("add-food", food, sessionId, userId)
   }
 
-  return [{ link, userId, sessionId }, addFood]
+  socket.on("food-count-update", (count) => {
+    console.log("--- UPDATE", count)
+    setFoodCount(count)
+  })
+
+  return [{ link, userId, sessionId, foodCount }, { addFood }]
 }
 
 export default useWebsockets
