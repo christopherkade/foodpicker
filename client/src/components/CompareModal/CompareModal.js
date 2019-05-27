@@ -44,7 +44,7 @@ const extractDataFromFood = (foodCount) => {
     .filter(food => food)
     .sort((a, b) => a.count - b.count)
     .reverse()
-    .map(({ name, emoji, count }) => {
+    .forEach(({ name, emoji, count }) => {
       labels.push(emoji)
       datasets[0].data.push(count)
     })
