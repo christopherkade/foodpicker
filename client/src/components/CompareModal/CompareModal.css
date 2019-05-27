@@ -1,6 +1,7 @@
 details {
   padding: 1rem 0;
 }
+
 details summary {
   display: inline-block;
   cursor: pointer;
@@ -35,6 +36,7 @@ details[open] summary:before {
 }
 
 details-dialog {
+  text-align: center;
   left: 50%;
   margin: 5vh auto;
   max-height: 90vh;

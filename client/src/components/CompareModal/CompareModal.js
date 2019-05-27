@@ -59,10 +59,18 @@ const CompareModal = ({ count, onClick }) => {
   let foodData = extractDataFromFood(count)
 
   const options = {
+    legend: {
+      display: false
+    },
     scales: {
       xAxes: [{
         ticks: {
-          beginAtZero: true
+          beginAtZero: true,
+        }
+      }],
+      yAxes: [{
+        ticks: {
+          fontSize: 30
         }
       }]
     }
