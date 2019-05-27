@@ -121,6 +121,10 @@ io.on('connection', (socket) => {
 
     console.log(`Client ${userId} has joined the session`)
     socket.emit("session-joined", { userId })
+
+    // Get initial food count upon joining
+    const foodCount = getFoodCount(sessionId)
+    sendToClients(sessionId, "food-count-update", foodCount)
   })
 
   /**
