@@ -1,16 +1,8 @@
 import React, { useState, useEffect } from 'react';
-import styled from "styled-components"
 
 import './App.css';
 import { IntroLayout } from "./components/IntroLayout"
 import { MainLayout } from "./components/MainLayout"
-
-const Wrapper = styled.div`
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100%;
-`
 
 const App = () => {
   const [started, setStarted] = useState(false)
