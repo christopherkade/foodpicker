@@ -3,10 +3,11 @@
 exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
 <div>
   <ul
-    class="sc-bwzfXH dMyKrs"
+    class="sc-bwzfXH iPVXsn"
   >
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Rice"
     >
       <span
         aria-label="Rice"
@@ -16,7 +17,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Pizza"
     >
       <span
         aria-label="Pizza"
@@ -26,7 +28,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Burger"
     >
       <span
         aria-label="Burger"
@@ -36,7 +39,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Sushi"
     >
       <span
         aria-label="Sushi"
@@ -46,7 +50,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Fries"
     >
       <span
         aria-label="Fries"
@@ -56,7 +61,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Hotdog"
     >
       <span
         aria-label="Hotdog"
@@ -66,7 +72,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Bacon"
     >
       <span
         aria-label="Bacon"
@@ -76,7 +83,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Eggs"
     >
       <span
         aria-label="Eggs"
@@ -86,7 +94,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Pancakes"
     >
       <span
         aria-label="Pancakes"
@@ -96,7 +105,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Bread"
     >
       <span
         aria-label="Bread"
@@ -106,7 +116,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Pretzel"
     >
       <span
         aria-label="Pretzel"
@@ -116,7 +127,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Cheese"
     >
       <span
         aria-label="Cheese"
@@ -126,7 +138,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Salad"
     >
       <span
         aria-label="Salad"
@@ -136,7 +149,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Burito"
     >
       <span
         aria-label="Burito"
@@ -146,7 +160,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Egg Sandwich"
     >
       <span
         aria-label="Egg Sandwich"
@@ -156,7 +171,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Taco"
     >
       <span
         aria-label="Taco"
@@ -166,7 +182,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Pork"
     >
       <span
         aria-label="Pork"
@@ -176,7 +193,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Chicken"
     >
       <span
         aria-label="Chicken"
@@ -186,7 +204,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Steak"
     >
       <span
         aria-label="Steak"
@@ -196,7 +215,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Shrimp"
     >
       <span
         aria-label="Shrimp"
@@ -206,7 +226,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Fish"
     >
       <span
         aria-label="Fish"
@@ -216,7 +237,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Crab"
     >
       <span
         aria-label="Crab"
@@ -226,7 +248,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Octopus"
     >
       <span
         aria-label="Octopus"
@@ -236,7 +259,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Squid"
     >
       <span
         aria-label="Squid"
@@ -246,7 +270,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Tomatoes"
     >
       <span
         aria-label="Tomatoes"
@@ -256,7 +281,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Mushrooms"
     >
       <span
         aria-label="Mushrooms"
@@ -266,7 +292,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Corn"
     >
       <span
         aria-label="Corn"
@@ -276,7 +303,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Cucumber"
     >
       <span
         aria-label="Cucumber"
@@ -286,7 +314,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Eggplant"
     >
       <span
         aria-label="Eggplant"
@@ -296,7 +325,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Avocado"
     >
       <span
         aria-label="Avocado"
@@ -306,7 +336,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Potatoes"
     >
       <span
         aria-label="Potatoes"
@@ -316,7 +347,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Broccoli"
     >
       <span
         aria-label="Broccoli"
@@ -326,7 +358,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Carrots"
     >
       <span
         aria-label="Carrots"
@@ -336,7 +369,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Noodles"
     >
       <span
         aria-label="Noodles"
@@ -346,7 +380,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Bento Box"
     >
       <span
         aria-label="Bento Box"
@@ -356,7 +391,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Riceball"
     >
       <span
         aria-label="Riceball"
@@ -366,7 +402,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Curry with Rice"
     >
       <span
         aria-label="Curry with Rice"
@@ -376,7 +413,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Ramen"
     >
       <span
         aria-label="Ramen"
@@ -386,7 +424,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Dumpling"
     >
       <span
         aria-label="Dumpling"
@@ -396,7 +435,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Mushroom Soup"
     >
       <span
         aria-label="Mushroom Soup"
@@ -406,7 +446,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Pasta"
     >
       <span
         aria-label="Pasta"
@@ -416,7 +457,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Paella"
     >
       <span
         aria-label="Paella"
@@ -426,7 +468,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Cereal"
     >
       <span
         aria-label="Cereal"
@@ -436,7 +479,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Peanuts"
     >
       <span
         aria-label="Peanuts"
@@ -446,7 +490,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Salted Popcorn"
     >
       <span
         aria-label="Salted Popcorn"
@@ -456,7 +501,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Pie"
     >
       <span
         aria-label="Pie"
@@ -466,7 +512,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Ice-cream"
     >
       <span
         aria-label="Ice-cream"
@@ -476,7 +523,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Krispy Kreme"
     >
       <span
         aria-label="Krispy Kreme"
@@ -486,7 +534,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Chips Ahoy"
     >
       <span
         aria-label="Chips Ahoy"
@@ -496,7 +545,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Chocolate Cake"
     >
       <span
         aria-label="Chocolate Cake"
@@ -506,7 +556,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Strawberry Shortcake"
     >
       <span
         aria-label="Strawberry Shortcake"
@@ -516,7 +567,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Chocolate"
     >
       <span
         aria-label="Chocolate"
@@ -526,7 +578,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Sweeties"
     >
       <span
         aria-label="Sweeties"
@@ -536,7 +589,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Pudding"
     >
       <span
         aria-label="Pudding"
@@ -546,7 +600,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Kiwi"
     >
       <span
         aria-label="Kiwi"
@@ -556,7 +611,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Grapes"
     >
       <span
         aria-label="Grapes"
@@ -566,7 +622,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Watermelon"
     >
       <span
         aria-label="Watermelon"
@@ -576,7 +633,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Oranges"
     >
       <span
         aria-label="Oranges"
@@ -586,7 +644,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Bananas"
     >
       <span
         aria-label="Bananas"
@@ -596,7 +655,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Pineapples"
     >
       <span
         aria-label="Pineapples"
@@ -606,7 +666,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Apples"
     >
       <span
         aria-label="Apples"
@@ -616,7 +677,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Strawberries"
     >
       <span
         aria-label="Strawberries"
@@ -626,7 +688,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Peaches"
     >
       <span
         aria-label="Peaches"
@@ -636,7 +699,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Pears"
     >
       <span
         aria-label="Pears"
@@ -646,7 +710,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Cherries"
     >
       <span
         aria-label="Cherries"
@@ -656,7 +721,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Milk"
     >
       <span
         aria-label="Milk"
@@ -666,7 +732,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Coffee"
     >
       <span
         aria-label="Coffee"
@@ -676,7 +743,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Tea"
     >
       <span
         aria-label="Tea"
@@ -686,7 +754,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Coke"
     >
       <span
         aria-label="Coke"
@@ -696,7 +765,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Beer"
     >
       <span
         aria-label="Beer"
@@ -706,7 +776,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Wine"
     >
       <span
         aria-label="Wine"
@@ -716,7 +787,8 @@ exports[`<EmojiLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="sc-bdVaJa dAgwcY"
+      class="sc-bdVaJa evWdMy"
+      title="Apple Cider"
     >
       <span
         aria-label="Apple Cider"

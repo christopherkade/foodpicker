@@ -10,6 +10,7 @@ const useWebsockets = () => {
   const [foodCount, setFoodCount] = useState()
   const [userId, setUserId] = useState()
   const [sessionId, setSessionId] = useState()
+  const [error, setError] = useState()
 
   // Check if a session exists, if so join it
   // If not, create one and display its link
@@ -38,16 +39,25 @@ const useWebsockets = () => {
   }, [])
 
   const addFood = (food, sessionId, userId) => {
-    console.log("ADD FOOD: ", food)
     socket.emit("add-food", food, sessionId, userId)
   }
 
   socket.on("food-count-update", (count) => {
-    console.log("--- UPDATE", count)
     setFoodCount(count)
   })
 
-  return [{ link, userId, sessionId, foodCount }, { addFood }]
+  /**
+   * On error, store its message and remove it after 3 seconds
+   */
+  socket.on("err", (error) => {
+    setError(error)
+
+    setTimeout(() => {
+      setError(null)
+    }, 3000)
+  })
+
+  return [{ link, userId, sessionId, foodCount, error }, { addFood }]
 }
 
 export default useWebsockets

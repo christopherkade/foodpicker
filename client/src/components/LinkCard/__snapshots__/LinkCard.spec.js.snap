@@ -3,18 +3,27 @@
 exports[`<LinkCard /> Snapshots should match snapshot 1`] = `
 <div>
   <div
-    class="sc-bdVaJa ctMcSt"
+    class="sc-bdVaJa cMaSZ"
   >
-    <p
-      class="sc-bwzfXH ePLGZB"
+    <label
+      class="sc-bwzfXH eNMlqq"
+      for="link"
     >
-      Share this link with your friends!
-    </p>
+      Link:
+    </label>
     <input
-      class="sc-htpNat FgSYl"
+      class="sc-htpNat ktWTRu"
+      name="link"
       readonly=""
       value="mockedLink"
     />
+    <span
+      aria-label="copy to clipboard"
+      class="copy-button sc-bxivhb giyyTQ"
+      role="img"
+    >
+      📋
+    </span>
   </div>
 </div>
 `;

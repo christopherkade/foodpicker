@@ -9,8 +9,8 @@ const Wrapper = styled.ul`
 	grid-gap: 10px;
 	grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
   grid-auto-flow: dense;
-  padding: 5rem 1rem;
   margin: 0;
+  padding: 0;
 `
 
 const EmojiLayout = ({ onClick }) => {

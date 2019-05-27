@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CompareModal /> Snapshots should match snapshot 1`] = `
+<div>
+  <details-dialog>
+    <h1
+      class="sc-bwzfXH gllGzP"
+    >
+      Vote count
+    </h1>
+    <canvas
+      data="[object Object]"
+      options="[object Object]"
+    />
+    <button
+      class="sc-bdVaJa cnrKsD"
+    >
+      Close
+    </button>
+  </details-dialog>
+</div>
+`;

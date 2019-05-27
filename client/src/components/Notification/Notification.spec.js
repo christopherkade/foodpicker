@@ -1,14 +1,14 @@
 import React from 'react'
 import { render, cleanup } from 'react-testing-library'
 
-import EmojiLayout from "./EmojiLayout"
+import Notification from "./Notification"
 
 afterEach(cleanup);
 
-describe("<EmojiLayout />", () => {
+describe("<Notification />", () => {
   describe("Snapshots", () => {
     it("should match snapshot", () => {
-      const { container } = render(<EmojiLayout onClick={() => { }} />);
+      const { container } = render(<Notification />);
       expect(container).toMatchSnapshot();
     });
   })

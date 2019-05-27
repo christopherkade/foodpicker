@@ -1,28 +1,40 @@
 import React from "react"
 import PropTypes from "prop-types"
 import styled from "styled-components"
+import { HorizontalBar } from "react-chartjs-2"
 
 import "./CompareModal.css"
+import { Button } from "../Button"
 
 const Title = styled.h1`
   font-size: 2rem;
-`
-
-const StyledList = styled.ul`
-  list-style: none;
 `
 
 /**
  * Sort and clean the food array
  * @param {*} foodCount
  */
-const sortFood = (foodCount) => {
+const extractDataFromFood = (foodCount) => {
+  const labels = []
+
+  const datasets = [
+    {
+      label: 'Food choices',
+      backgroundColor: 'rgba(255,99,132,0.2)',
+      borderColor: 'rgba(255,99,132,1)',
+      borderWidth: 1,
+      hoverBackgroundColor: 'rgba(255,99,132,0.4)',
+      hoverBorderColor: 'rgba(255,99,132,1)',
+      data: []
+    }
+  ]
+
   const keys = Object.keys(foodCount)
-  const trimmedFood = keys.map(key => {
+
+  keys.map(key => {
     if (key === "") return null
 
     const { name, emoji } = foodCount[key].obj
-
     return {
       name,
       emoji,
@@ -32,30 +44,49 @@ const sortFood = (foodCount) => {
     .filter(food => food)
     .sort((a, b) => a.count - b.count)
     .reverse()
+    .map(({ name, emoji, count }) => {
+      labels.push(emoji)
+      datasets[0].data.push(count)
+    })
 
-  return trimmedFood
+  return {
+    labels,
+    datasets
+  }
 }
 
-const CompareLayout = ({ count, onClick }) => {
-  let trimmedFood = sortFood(count)
+const CompareModal = ({ count, onClick }) => {
+  let foodData = extractDataFromFood(count)
+
+  const options = {
+    scales: {
+      xAxes: [{
+        ticks: {
+          beginAtZero: true
+        }
+      }]
+    }
+  }
+
 
   return (
     <details-dialog>
       <Title>Vote count</Title>
-      <StyledList>
-        {trimmedFood.map(food => <li key={food.name}>x{food.count} {food.emoji} ({food.name}) </li>)}
-      </StyledList>
-      <button onClick={onClick}>Close</button>
+      <HorizontalBar
+        data={foodData}
+        options={options}
+      />
+      <Button onClick={onClick}>Close</Button>
     </details-dialog>
   )
 }
 
-CompareLayout.propTypes = {
+CompareModal.propTypes = {
   count: PropTypes.object
 }
 
-CompareLayout.defaultProps = {
+CompareModal.defaultProps = {
   count: {}
 }
 
-export default CompareLayout
+export default CompareModal

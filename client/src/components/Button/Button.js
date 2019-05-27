@@ -1,7 +1,7 @@
 import React from "react"
 import styled from "styled-components"
 
-const StyledCompareButton = styled.button`
+const StyledButton = styled.button`
   padding: 1rem;
   font-size: 1rem;
   background-color: white;
@@ -22,12 +22,12 @@ const StyledCompareButton = styled.button`
   }
 `
 
-const CompareButton = ({ onClick }) => {
+const Button = ({ children, onClick }) => {
   return (
-    <StyledCompareButton onClick={onClick}>
-      <span role="img" aria-label="">🍴</span> Compare <span role="img" aria-label="">🍴</span>
-    </StyledCompareButton>
+    <StyledButton onClick={onClick}>
+      {children}
+    </StyledButton>
   )
 }
 
-export default CompareButton
+export default Button

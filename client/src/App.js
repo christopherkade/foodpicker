@@ -30,13 +30,15 @@ const App = () => {
   }, [])
 
   return (
-    <Wrapper>
+    <>
       {
         !started ?
-          <IntroCard onClick={handleStart} />
+          <Wrapper>
+            <IntroCard onClick={handleStart} />
+          </Wrapper>
           : <MainLayout />
       }
-    </Wrapper>
+    </>
   );
 }
 

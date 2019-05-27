@@ -7,11 +7,16 @@ const PORT = process.env.PORT || 3001
 // Contains all of our user sessions
 let sessions = []
 
+const errors = {
+  NO_SESSION: "This session does not exist"
+}
+
 const getCurrentSession = (sessionId) => {
   return sessions.find(session => session.id === sessionId)
 }
 
 const getCurrentUser = (userId, session) => {
+  if (!session) return
   return session.users.find(user => user.userId === userId)
 }
 
@@ -102,6 +107,7 @@ io.on('connection', (socket) => {
 
     if (!currentSession) {
       console.warn("User trying to join a non-existing session")
+      socket.emit("err", errors.NO_SESSION)
       return
     }
 
@@ -125,6 +131,9 @@ io.on('connection', (socket) => {
     console.log(`Adding foods ${food} for user ${userId} in session ${sessionId}`);
     const currentSession = getCurrentSession(sessionId)
     const currentUser = getCurrentUser(userId, currentSession)
+
+    if (!currentUser) return
+
     currentUser.food = food
 
     const foodCount = getFoodCount(sessionId)

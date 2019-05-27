@@ -3,11 +3,15 @@
 exports[`<EmojiSelector /> Snapshots should match snapshot 1`] = `
 <div>
   <button
-    class="sc-bdVaJa dAgwcY"
+    class="sc-bdVaJa evWdMy"
+    title="Pizza"
   >
     <span
+      aria-label="Pizza"
       role="img"
-    />
+    >
+      🍕
+    </span>
   </button>
 </div>
 `;

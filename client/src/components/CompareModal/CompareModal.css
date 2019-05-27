@@ -36,8 +36,8 @@ details[open] summary:before {
 
 details-dialog {
   left: 50%;
-  margin: 10vh auto;
-  max-height: 80vh;
+  margin: 5vh auto;
+  max-height: 90vh;
   max-width: 90vw;
   position: fixed;
   top: 0;
@@ -49,10 +49,13 @@ details-dialog {
   animation-timing-function: ease-in-out;
   background-color: #fff;
   border: 1px solid #EF798A;
-  border-top: 10px solid #EF798A;
   border-radius: 3px;
   padding: 1em;
   box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.3);
+}
+
+canvas {
+  max-height: 500px;
 }
 
 @keyframes fadein {
