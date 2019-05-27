@@ -1,0 +1,17 @@
+language: 'node_js'
+node_js: '8'
+
+before_script:
+  - cd client
+  - yarn build
+  - cp ./build/index.html ./build/404.html
+
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  local_dir: ./client/build
+  repo: christopherkade/fastfood
+  target_branch: gh-pages
+  on:
+    branch: master

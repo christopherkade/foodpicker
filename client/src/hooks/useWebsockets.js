@@ -1,8 +1,7 @@
 import { useState, useEffect } from "react"
 import socketIOClient from "socket.io-client";
 
-// TODO: Handle endpoint based on dev / prod
-const socket = socketIOClient("http://localhost:3001");
+const socket = socketIOClient("https://fastfood-webapp.herokuapp.com/");
 
 /* eslint-disable */
 const useWebsockets = () => {
