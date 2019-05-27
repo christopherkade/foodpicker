@@ -6,7 +6,7 @@ const CardWrapper = styled.div`
   display: flex;
   flex-direction: column;
   padding: 1rem;
-  background-color: #EF798A;
+  background: rgba(239,121,138, 0.9);
   text-align: center;
   border-radius: 4px;
 `
@@ -14,14 +14,14 @@ const CardWrapper = styled.div`
 const CardTitle = styled.h1`
   color: white;
   font-weight: 300;
-  font-size: 1.5rem;
+  font-size: 3rem;
   margin: 0;
 `
 
 const CardSubtitle = styled.p`
   color: white;
   font-weight: 300;
-  font-size: 1rem;
+  font-size: 2rem;
 `
 
 const StartButton = styled.button`
@@ -45,15 +45,14 @@ const IntroCard = ({ onClick }) => {
   return (
     <CardWrapper>
       <CardTitle>
-        Welcome to Fastfood
+        Fastfood
       </CardTitle>
-      <span role="img" aria-label="">🍕🥑🍣🍜</span>
       <CardSubtitle>
-        The easiest way to pick what to eat !
+        Argue less, eat more
       </CardSubtitle>
 
       <StartButton onClick={onClick}>
-        Start a session
+        Let's go !
       </StartButton>
     </CardWrapper>
   )

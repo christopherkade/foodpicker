@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import styled from "styled-components"
 
 import './App.css';
-import { IntroCard } from "./components/IntroCard"
+import { IntroLayout } from "./components/IntroLayout"
 import { MainLayout } from "./components/MainLayout"
 
 const Wrapper = styled.div`
@@ -33,9 +33,7 @@ const App = () => {
     <>
       {
         !started ?
-          <Wrapper>
-            <IntroCard onClick={handleStart} />
-          </Wrapper>
+          <IntroLayout onClick={handleStart} />
           : <MainLayout />
       }
     </>

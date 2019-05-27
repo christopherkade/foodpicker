@@ -3,28 +3,22 @@
 exports[`<IntroCard /> Snapshots should match snapshot 1`] = `
 <div>
   <div
-    class="sc-bdVaJa eesVxK"
+    class="sc-bdVaJa jOMnRk"
   >
     <h1
-      class="sc-bwzfXH eXiyGK"
+      class="sc-bwzfXH gyiady"
     >
-      Welcome to Fastfood
+      Fastfood
     </h1>
-    <span
-      aria-label=""
-      role="img"
-    >
-      🍕🥑🍣🍜
-    </span>
     <p
-      class="sc-htpNat hEytle"
+      class="sc-htpNat fnwEBe"
     >
-      The easiest way to pick what to eat !
+      Argue less, eat more
     </p>
     <button
       class="sc-bxivhb vcWxY"
     >
-      Start a session
+      Let's go !
     </button>
   </div>
 </div>

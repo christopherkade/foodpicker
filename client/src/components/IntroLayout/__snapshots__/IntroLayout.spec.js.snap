@@ -1,0 +1,537 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<IntroLayout /> Snapshots should match snapshot 1`] = `
+<div>
+  <div
+    class="sc-ifAKCX khZGyN"
+  >
+    <div
+      class="sc-EHOje Gemmj"
+    >
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🍚
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🍕
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🍔
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🍣
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🍟
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🌭
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🥓
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🥚
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🥞
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🍞
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🥨
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🧀
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🥗
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🥙
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🥪
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🌮
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🍖
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🍗
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🥩
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🦐
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🐟
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🦀
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🐙
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🦑
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🍅
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🍄
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🌽
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🥒
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🍆
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🥑
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🥔
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🥦
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🥕
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🥡
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🍱
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🍙
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🍛
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🍜
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🥟
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🍲
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🍝
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🥘
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🥣
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🥜
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🍿
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🥧
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🍦
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🍩
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🍪
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🎂
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🍰
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🍫
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🍬
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🍮
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🥝
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🍇
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🍉
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🍊
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🍌
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🍍
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🍎
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🍓
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🍑
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🍐
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🍒
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🥛
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        ☕
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🍵
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🥤
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🍺
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🍷
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM iNDdWj"
+        role="img"
+      >
+        🍾
+      </span>
+    </div>
+    <div
+      class="sc-bdVaJa jOMnRk"
+    >
+      <h1
+        class="sc-bwzfXH gyiady"
+      >
+        Fastfood
+      </h1>
+      <p
+        class="sc-htpNat fnwEBe"
+      >
+        Argue less, eat more
+      </p>
+      <button
+        class="sc-bxivhb vcWxY"
+      >
+        Let's go !
+      </button>
+    </div>
+  </div>
+</div>
+`;
