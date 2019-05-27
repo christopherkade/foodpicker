@@ -18,7 +18,7 @@ const EmojiWrapper = styled.div`
   z-index: -1;
   display: grid;
   grid-gap: 10px;
-  grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
+  grid-template-columns: repeat(7, 1fr);
   align-items: center;
   overflow: hidden;
 `
