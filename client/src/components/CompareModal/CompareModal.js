@@ -8,12 +8,15 @@ const Title = styled.h1`
   font-size: 2rem;
 `
 
+const StyledList = styled.ul`
+  list-style: none;
+`
+
 /**
- * Cleans out our food array
+ * Sort and clean the food array
  * @param {*} foodCount
  */
-const trimFood = (foodCount) => {
-  console.log("Food count pre trim", foodCount);
+const sortFood = (foodCount) => {
   const keys = Object.keys(foodCount)
   const trimmedFood = keys.map(key => {
     if (key === "") return null
@@ -25,19 +28,23 @@ const trimFood = (foodCount) => {
       emoji,
       count: foodCount[key].count
     }
-  }).filter(food => food)
+  })
+    .filter(food => food)
+    .sort((a, b) => a.count - b.count)
+    .reverse()
 
   return trimmedFood
 }
 
 const CompareLayout = ({ count, onClick }) => {
-  let trimmedFood = trimFood(count)
+  let trimmedFood = sortFood(count)
 
   return (
     <details-dialog>
-      <ul>
-        {trimmedFood.map(food => <li>{food.name} | {food.count}</li>)}
-      </ul>
+      <Title>Vote count</Title>
+      <StyledList>
+        {trimmedFood.map(food => <li key={food.name}>x{food.count} {food.emoji} ({food.name}) </li>)}
+      </StyledList>
       <button onClick={onClick}>Close</button>
     </details-dialog>
   )

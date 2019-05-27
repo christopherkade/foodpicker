@@ -3,13 +3,13 @@
 exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
 <div>
   <div
-    class="sc-gzVnrw kugQOZ"
+    class="sc-iwsKbI WwTTR"
   >
     <ul
       class="sc-bwzfXH dMyKrs"
     >
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Rice"
@@ -19,7 +19,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Pizza"
@@ -29,7 +29,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Burger"
@@ -39,7 +39,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Sushi"
@@ -49,7 +49,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Fries"
@@ -59,7 +59,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Hotdog"
@@ -69,7 +69,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Bacon"
@@ -79,7 +79,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Eggs"
@@ -89,7 +89,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Pancakes"
@@ -99,7 +99,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Bread"
@@ -109,7 +109,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Pretzel"
@@ -119,7 +119,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Cheese"
@@ -129,7 +129,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Salad"
@@ -139,7 +139,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Burito"
@@ -149,7 +149,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Egg Sandwich"
@@ -159,7 +159,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Taco"
@@ -169,7 +169,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Pork"
@@ -179,7 +179,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Chicken"
@@ -189,7 +189,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Steak"
@@ -199,7 +199,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Shrimp"
@@ -209,7 +209,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Fish"
@@ -219,7 +219,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Crab"
@@ -229,7 +229,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Octopus"
@@ -239,7 +239,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Squid"
@@ -249,7 +249,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Tomatoes"
@@ -259,7 +259,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Mushrooms"
@@ -269,7 +269,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Corn"
@@ -279,7 +279,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Cucumber"
@@ -289,7 +289,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Eggplant"
@@ -299,7 +299,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Avocado"
@@ -309,7 +309,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Potatoes"
@@ -319,7 +319,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Broccoli"
@@ -329,7 +329,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Carrots"
@@ -339,7 +339,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Noodles"
@@ -349,7 +349,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Bento Box"
@@ -359,7 +359,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Riceball"
@@ -369,7 +369,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Curry with Rice"
@@ -379,7 +379,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Ramen"
@@ -389,7 +389,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Dumpling"
@@ -399,7 +399,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Mushroom Soup"
@@ -409,7 +409,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Pasta"
@@ -419,7 +419,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Paella"
@@ -429,7 +429,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Cereal"
@@ -439,7 +439,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Peanuts"
@@ -449,7 +449,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Salted Popcorn"
@@ -459,7 +459,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Pie"
@@ -469,7 +469,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Ice-cream"
@@ -479,7 +479,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Krispy Kreme"
@@ -489,7 +489,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Chips Ahoy"
@@ -499,7 +499,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Chocolate Cake"
@@ -509,7 +509,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Strawberry Shortcake"
@@ -519,7 +519,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Chocolate"
@@ -529,7 +529,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Sweeties"
@@ -539,7 +539,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Pudding"
@@ -549,7 +549,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Kiwi"
@@ -559,7 +559,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Grapes"
@@ -569,7 +569,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Watermelon"
@@ -579,7 +579,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Oranges"
@@ -589,7 +589,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Bananas"
@@ -599,7 +599,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Pineapples"
@@ -609,7 +609,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Apples"
@@ -619,7 +619,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Strawberries"
@@ -629,7 +629,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Peaches"
@@ -639,7 +639,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Pears"
@@ -649,7 +649,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Cherries"
@@ -659,7 +659,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Milk"
@@ -669,7 +669,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Coffee"
@@ -679,7 +679,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Tea"
@@ -689,7 +689,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Coke"
@@ -699,7 +699,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Beer"
@@ -709,7 +709,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Wine"
@@ -719,7 +719,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
         </span>
       </button>
       <button
-        class="sc-bdVaJa dAgwcY"
+        class="sc-bdVaJa iwkPNe"
       >
         <span
           aria-label="Apple Cider"
@@ -730,7 +730,7 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
       </button>
     </ul>
     <div
-      class="sc-htoDjs yQdTN"
+      class="sc-gZMcBi jwueps"
     >
       <div
         class="sc-EHOje YINzU"
@@ -756,6 +756,23 @@ exports[`<MainLayout /> Snapshots should match snapshot 1`] = `
           value=""
         />
       </div>
+      <button
+        class="sc-gzVnrw cEPiAX"
+      >
+        <span
+          aria-label=""
+          role="img"
+        >
+          🍴
+        </span>
+         Compare 
+        <span
+          aria-label=""
+          role="img"
+        >
+          🍴
+        </span>
+      </button>
       <div
         class="sc-htpNat dgczwS"
       >
