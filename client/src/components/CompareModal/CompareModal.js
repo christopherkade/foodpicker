@@ -90,11 +90,12 @@ const CompareModal = ({ count, onClick }) => {
 }
 
 CompareModal.propTypes = {
-  count: PropTypes.object
+  count: PropTypes.object,
+  onClick: PropTypes.func.isRequired,
 }
 
 CompareModal.defaultProps = {
-  count: {}
+  count: {},
 }
 
 export default CompareModal

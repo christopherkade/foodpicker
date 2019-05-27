@@ -16,7 +16,7 @@ const LinkText = styled.label`
   margin-right: 1rem;
 `
 
-const Link = styled.input`
+const LinkInput = styled.input`
   background-color: white;
   font-size: 1.5rem;
   border-radius: 4px;
@@ -25,6 +25,7 @@ const Link = styled.input`
   background-color: #EF798A;
   color: white;
   box-sizing: content-box;
+  width: 30vw;
 
   &:focus {
     outline: transparent;
@@ -32,6 +33,7 @@ const Link = styled.input`
 
   @media (max-width: 769px) {
     font-size: 1rem;
+    width: 100%;
   }
 `
 
@@ -44,7 +46,7 @@ const CopyButton = styled.span`
   }
 `
 
-const LinkCard = ({ link }) => {
+const Link = ({ link }) => {
   const [copied, setCopied] = useState(false)
 
   useEffect(() => {
@@ -61,8 +63,8 @@ const LinkCard = ({ link }) => {
 
   return (
     <Wrapper>
-      <LinkText htmlFor="link">Link:</LinkText>
-      <Link name="link" value={link} readOnly />
+      <LinkText htmlFor="link">Share link:</LinkText>
+      <LinkInput name="link" value={link} readOnly />
       <CopyButton role="img" aria-label="copy to clipboard" className="copy-button">
         {copied ? "✅" : "📋"}
       </CopyButton>
@@ -70,8 +72,8 @@ const LinkCard = ({ link }) => {
   )
 }
 
-LinkCard.propTypes = {
+Link.propTypes = {
   link: PropTypes.string.isRequired
 }
 
-export default LinkCard
+export default Link

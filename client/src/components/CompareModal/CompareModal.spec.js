@@ -11,7 +11,7 @@ jest.mock("react-chartjs-2", () => ({
 describe('<CompareModal />', () => {
   describe('Snapshots', () => {
     it('should match snapshot', () => {
-      const { container } = render(<CompareModal />);
+      const { container } = render(<CompareModal onClick={() => { }} />);
       expect(container).toMatchSnapshot();
     });
   });

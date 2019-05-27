@@ -3,7 +3,7 @@ import styled from "styled-components"
 
 import useWebsockets from "../../hooks/useWebsockets"
 import { EmojiLayout } from "../EmojiLayout"
-import { LinkCard } from "../LinkCard"
+import { Link } from "../Link"
 import { UserSelection } from "../UserSelection"
 import { Button } from "../Button"
 import { CompareModal } from "../CompareModal"
@@ -64,14 +64,14 @@ const MainLayout = () => {
     <Wrapper>
       <Notification error={error} />
       <TopWrapper>
-        <LinkCard link={link} />
+        <Link link={link} />
         <Title>Pick up to 4 types of food</Title>
         <EmojiLayout onClick={handleEmoijiClick} />
       </TopWrapper>
       <BottomWrapper>
         <UserSelection selections={selections} />
         <Button onClick={() => setCompared(true)}>
-          Results
+          See results
         </Button>
       </BottomWrapper>
       {compared ? <CompareModal count={foodCount} onClick={() => setCompared(false)} /> : null}

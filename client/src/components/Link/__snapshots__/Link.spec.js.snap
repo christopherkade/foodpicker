@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`<LinkCard /> Snapshots should match snapshot 1`] = `
+exports[`<Link /> Snapshots should match snapshot 1`] = `
 <div>
   <div
     class="sc-bdVaJa cMaSZ"
@@ -9,10 +9,10 @@ exports[`<LinkCard /> Snapshots should match snapshot 1`] = `
       class="sc-bwzfXH eNMlqq"
       for="link"
     >
-      Link:
+      Share link:
     </label>
     <input
-      class="sc-htpNat ktWTRu"
+      class="sc-htpNat cSFsNV"
       name="link"
       readonly=""
       value="mockedLink"
