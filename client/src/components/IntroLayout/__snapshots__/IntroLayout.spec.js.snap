@@ -6,508 +6,1012 @@ exports[`<IntroLayout /> Snapshots should match snapshot 1`] = `
     class="sc-ifAKCX khZGyN"
   >
     <div
-      class="sc-EHOje gtaPVc"
+      class="sc-EHOje eOUisk"
     >
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🍚
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🍕
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🍔
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🍣
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🍟
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🌭
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🥓
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🥚
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🥞
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🍞
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🥨
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🧀
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🥗
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🥙
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🥪
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🌮
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🍖
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🍗
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🥩
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🦐
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🐟
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🦀
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🐙
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🦑
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🍅
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🍄
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🌽
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🥒
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🍆
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🥑
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🥔
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🥦
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🥕
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🥡
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🍱
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🍙
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🍛
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🍜
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🥟
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🍲
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🍝
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🥘
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🥣
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🥜
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🍿
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🥧
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🍦
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🍩
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🍪
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🎂
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🍰
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🍫
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🍬
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🍮
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🥝
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🍇
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🍉
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🍊
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🍌
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🍍
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🍎
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🍓
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🍑
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🍐
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🍒
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🥛
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         ☕
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🍵
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🥤
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🍺
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🍷
       </span>
       <span
         aria-label=""
-        class="sc-bZQynM iNDdWj"
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🍾
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🍚
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🍕
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🍔
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🍣
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🍟
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🌭
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🥓
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🥚
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🥞
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🍞
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🥨
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🧀
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🥗
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🥙
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🥪
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🌮
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🍖
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🍗
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🥩
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🦐
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🐟
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🦀
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🐙
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🦑
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🍅
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🍄
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🌽
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🥒
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🍆
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🥑
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🥔
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🥦
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🥕
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🥡
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🍱
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🍙
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🍛
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🍜
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🥟
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🍲
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🍝
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🥘
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🥣
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🥜
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🍿
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🥧
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🍦
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🍩
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🍪
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🎂
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🍰
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🍫
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🍬
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🍮
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🥝
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🍇
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🍉
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🍊
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🍌
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🍍
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🍎
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🍓
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🍑
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🍐
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🍒
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🥛
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        ☕
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🍵
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🥤
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🍺
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
+        role="img"
+      >
+        🍷
+      </span>
+      <span
+        aria-label=""
+        class="sc-bZQynM bpuWjG"
         role="img"
       >
         🍾
