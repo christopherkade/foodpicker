@@ -5,9 +5,11 @@ import { HorizontalBar } from "react-chartjs-2"
 
 import "./CompareModal.css"
 import { Button } from "components/Atoms/Button"
+import { Title } from "components/Atoms/Title"
 
-const Title = styled.h1`
-  font-size: 2rem;
+const Subtitle = styled.h2`
+  font-size: 1.5rem;
+  font-weight: 300;
 `
 
 /**
@@ -76,14 +78,19 @@ const CompareModal = ({ count, onClick }) => {
     }
   }
 
-
   return (
     <details-dialog>
       <Title>Vote count</Title>
-      <HorizontalBar
-        data={foodData}
-        options={options}
-      />
+      {
+        foodData.labels.length > 0 ?
+          <HorizontalBar
+            data={foodData}
+            options={options}
+          /> :
+          <Subtitle>
+            It seems like nobody has picked any food yet ! <span role="img" aria-label="">🤷‍♂</span>️
+          </Subtitle>
+      }
       <Button onClick={onClick}>Close</Button>
     </details-dialog>
   )

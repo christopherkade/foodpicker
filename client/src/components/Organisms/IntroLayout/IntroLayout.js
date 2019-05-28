@@ -1,7 +1,7 @@
 import React from "react"
 import styled from "styled-components"
 
-import { IntroCard } from "components/Atoms/IntroCard"
+import { IntroCard } from "components/Molecules/IntroCard"
 import data from "data/food.json"
 
 const Wrapper = styled.div`

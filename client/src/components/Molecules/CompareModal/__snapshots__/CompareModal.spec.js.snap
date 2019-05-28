@@ -4,14 +4,22 @@ exports[`<CompareModal /> Snapshots should match snapshot 1`] = `
 <div>
   <details-dialog>
     <h1
-      class="sc-bwzfXH gllGzP"
+      class="sc-bwzfXH dBuFgv"
     >
       Vote count
     </h1>
-    <canvas
-      data="[object Object]"
-      options="[object Object]"
-    />
+    <h2
+      class="sc-htpNat hHkOTC"
+    >
+      It seems like nobody has picked any food yet ! 
+      <span
+        aria-label=""
+        role="img"
+      >
+        🤷‍♂
+      </span>
+      ️
+    </h2>
     <button
       class="sc-bdVaJa iTZKRQ"
     >

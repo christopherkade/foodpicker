@@ -1018,15 +1018,16 @@ exports[`<IntroLayout /> Snapshots should match snapshot 1`] = `
       </span>
     </div>
     <div
-      class="sc-bdVaJa jOMnRk"
+      class="sc-bwzfXH eZvUYg"
     >
       <h1
-        class="sc-bwzfXH gyiady"
+        class="sc-bdVaJa kKxapA"
+        color="white"
       >
         Fastfood
       </h1>
       <p
-        class="sc-htpNat fnwEBe"
+        class="sc-htpNat ecPqKx"
       >
         Argue less, eat more
       </p>

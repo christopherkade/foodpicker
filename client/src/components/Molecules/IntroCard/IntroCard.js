@@ -2,6 +2,8 @@ import React from "react"
 import PropTypes from "prop-types"
 import styled from "styled-components"
 
+import { Title } from "components/Atoms/Title"
+
 const CardWrapper = styled.div`
   display: flex;
   flex-direction: column;
@@ -11,17 +13,11 @@ const CardWrapper = styled.div`
   border-radius: 4px;
 `
 
-const CardTitle = styled.h1`
-  color: white;
-  font-weight: 300;
-  font-size: 3rem;
-  margin: 0;
-`
-
 const CardSubtitle = styled.p`
   color: white;
   font-weight: 300;
   font-size: 2rem;
+  margin: 0;
 `
 
 const StartButton = styled.button`
@@ -44,9 +40,9 @@ const StartButton = styled.button`
 const IntroCard = ({ onClick }) => {
   return (
     <CardWrapper>
-      <CardTitle>
+      <Title color="white">
         Fastfood
-      </CardTitle>
+      </Title>
       <CardSubtitle>
         Argue less, eat more
       </CardSubtitle>

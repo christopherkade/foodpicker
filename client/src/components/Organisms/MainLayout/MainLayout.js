@@ -8,6 +8,7 @@ import { UserSelection } from "components/Atoms/UserSelection"
 import { Button } from "components/Atoms/Button"
 import { CompareModal } from "components/Molecules/CompareModal"
 import { Notification } from "components/Atoms/Notification"
+import { Title } from "components/Atoms/Title"
 
 const Wrapper = styled.div`
   width: 100%;
@@ -51,10 +52,6 @@ const BottomWrapper = styled.div`
     position: fixed;
     bottom: 0.625rem;
   }
-`
-
-const Title = styled.h1`
-  font-size: 1.5rem;
 `
 
 const MainLayout = () => {
