@@ -40,7 +40,7 @@ const StartButton = styled.button`
 const IntroCard = ({ onClick }) => {
   return (
     <CardWrapper>
-      <Title color="white">
+      <Title color="white" size="3">
         Fastfood
       </Title>
       <CardSubtitle>

@@ -85,7 +85,7 @@ const MainLayout = () => {
       <Notification error={error} />
       <TopWrapper>
         <InfoWrapper>
-          <Title>Pick up to 4 types of food</Title>
+          <Title size="1.5">Pick up to 4 types of food</Title>
           <Link link={link} />
         </InfoWrapper>
         <EmojiLayout onClick={handleEmoijiClick} />
