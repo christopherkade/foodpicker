@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react';
 
 import './App.css';
-import { IntroLayout } from "./components/IntroLayout"
-import { MainLayout } from "./components/MainLayout"
+import { IntroLayout } from "./components/Organisms/IntroLayout"
+import { MainLayout } from "./components/Organisms/MainLayout"
 
 const App = () => {
   const [started, setStarted] = useState(false)

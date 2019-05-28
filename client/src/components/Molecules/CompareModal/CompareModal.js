@@ -4,7 +4,7 @@ import styled from "styled-components"
 import { HorizontalBar } from "react-chartjs-2"
 
 import "./CompareModal.css"
-import { Button } from "../Button"
+import { Button } from "components/Atoms/Button"
 
 const Title = styled.h1`
   font-size: 2rem;

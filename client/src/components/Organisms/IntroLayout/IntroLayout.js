@@ -1,8 +1,8 @@
 import React from "react"
 import styled from "styled-components"
 
-import { IntroCard } from "../IntroCard"
-import data from "../../data/food.json"
+import { IntroCard } from "components/Atoms/IntroCard"
+import data from "data/food.json"
 
 const Wrapper = styled.div`
   display: flex;

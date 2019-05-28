@@ -1,8 +1,8 @@
 import React from "react"
 import styled from "styled-components"
 
-import { EmojiSelector } from "../EmojiSelector"
-import data from "../../data/food.json"
+import { EmojiSelector } from "components/Atoms/EmojiSelector"
+import data from "data/food.json"
 
 const Wrapper = styled.ul`
   display: grid;

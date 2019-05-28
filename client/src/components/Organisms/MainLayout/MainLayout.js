@@ -1,13 +1,13 @@
 import React, { useState } from "react"
 import styled from "styled-components"
 
-import useWebsockets from "../../hooks/useWebsockets"
-import { EmojiLayout } from "../EmojiLayout"
-import { Link } from "../Link"
-import { UserSelection } from "../UserSelection"
-import { Button } from "../Button"
-import { CompareModal } from "../CompareModal"
-import { Notification } from "../Notification"
+import useWebsockets from "hooks/useWebsockets"
+import { EmojiLayout } from "components/Molecules/EmojiLayout"
+import { Link } from "components/Atoms/Link"
+import { UserSelection } from "components/Atoms/UserSelection"
+import { Button } from "components/Atoms/Button"
+import { CompareModal } from "components/Molecules/CompareModal"
+import { Notification } from "components/Atoms/Notification"
 
 const Wrapper = styled.div`
   width: 100%;
