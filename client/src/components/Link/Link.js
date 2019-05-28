@@ -63,7 +63,7 @@ const Link = ({ link }) => {
 
   return (
     <Wrapper>
-      <LinkText htmlFor="link">Share link:</LinkText>
+      <LinkText htmlFor="link">Invite anyone to this session with this link:</LinkText>
       <LinkInput name="link" value={link} readOnly />
       <CopyButton role="img" aria-label="copy to clipboard" className="copy-button">
         {copied ? "✅" : "📋"}

@@ -16,10 +16,28 @@ const Wrapper = styled.div`
 `
 
 const TopWrapper = styled.div`
-  padding: 0rem 10rem;
+  padding: 5rem 10rem;
+
+  @media (max-width: 1281px) {
+    padding: 2rem 10rem;
+  }
+
+  @media (max-width: 1024px) {
+    padding-bottom: 10rem;
+  }
 
   @media (max-width: 769px) {
-    padding: 1rem;
+    padding: 2rem 1rem 10rem 1rem;
+  }
+`
+
+const InfoWrapper = styled.div`
+  display: flex;
+  justify-content: space-between;
+
+  @media (max-width: 1024px) {
+    display: inline-block;
+    text-align: center;
   }
 `
 
@@ -28,6 +46,11 @@ const BottomWrapper = styled.div`
   bottom: 0;
   text-align: center;
   margin-top: 1rem;
+
+  @media (max-width: 1024px) {
+    position: fixed;
+    bottom: 0.625rem;
+  }
 `
 
 const Title = styled.h1`
@@ -64,8 +87,10 @@ const MainLayout = () => {
     <Wrapper>
       <Notification error={error} />
       <TopWrapper>
-        <Link link={link} />
-        <Title>Pick up to 4 types of food</Title>
+        <InfoWrapper>
+          <Title>Pick up to 4 types of food</Title>
+          <Link link={link} />
+        </InfoWrapper>
         <EmojiLayout onClick={handleEmoijiClick} />
       </TopWrapper>
       <BottomWrapper>

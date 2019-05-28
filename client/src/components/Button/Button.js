@@ -8,13 +8,13 @@ const StyledButton = styled.button`
   border: 1px solid #EF798A;
   margin: 0.5rem;
 
+  & > span {
+    font-size: 1.5rem;
+  }
+
   &:hover {
     cursor: pointer;
     opacity: 0.8;
-  }
-
-  & > span {
-    font-size: 1.5rem;
   }
 
   &:focus {

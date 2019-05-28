@@ -9,7 +9,7 @@ exports[`<Link /> Snapshots should match snapshot 1`] = `
       class="sc-bwzfXH eNMlqq"
       for="link"
     >
-      Share link:
+      Invite anyone to this session with this link:
     </label>
     <input
       class="sc-htpNat cSFsNV"
