@@ -7,10 +7,6 @@ import { MainLayout } from "./components/MainLayout"
 const App = () => {
   const [started, setStarted] = useState(false)
 
-  const handleStart = () => {
-    setStarted(true)
-  }
-
   // On launch, check if the user is coming from a shared URL
   useEffect(() => {
     const { href } = window.location
@@ -25,7 +21,7 @@ const App = () => {
     <>
       {
         !started ?
-          <IntroLayout onClick={handleStart} />
+          <IntroLayout onClick={() => setStarted(true)} />
           : <MainLayout />
       }
     </>

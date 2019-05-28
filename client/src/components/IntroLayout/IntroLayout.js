@@ -20,33 +20,40 @@ const EmojiWrapper = styled.div`
   grid-gap: 10px;
   grid-template-columns: repeat(7, 1fr);
   align-items: center;
+  justify-items: center;
   overflow: hidden;
 `
 
 const Emoji = styled.span`
   font-size: 3rem;
-  transform: rotate(-45deg) perspective(0);
   display: inline-block;
-  animation: offset 5s infinite;
+  animation: scroll 20s infinite linear;
 
-  @keyframes offset {
+  @keyframes scroll {
     0% {
-      transform: rotate(-45deg) translateX(0px)
+      transform: translateY(0px)
     }
     50% {
-      transform: rotate(-45deg) translateX(50px)
+      transform: translateY(-500px)
     }
     100% {
-      transform: rotate(-45deg) translateX(0px)
+      transform: translateY(0px)
     }
   }
 `
 
 const IntroLayout = ({ onClick }) => {
+  const foodCopy = [...data.foods]
+
+  // Add some more emojis to the mix
+  foodCopy.forEach(food => {
+    foodCopy.push(food)
+  })
+
   return (
     <Wrapper>
       <EmojiWrapper>
-        {data.foods.map(food => <Emoji key={food.name} role="img" aria-label="">{food.emoji}</Emoji>)}
+        {foodCopy.map((food, index) => <Emoji key={index} role="img" aria-label="">{food.emoji}</Emoji>)}
       </EmojiWrapper>
       <IntroCard onClick={onClick} />
     </Wrapper>
