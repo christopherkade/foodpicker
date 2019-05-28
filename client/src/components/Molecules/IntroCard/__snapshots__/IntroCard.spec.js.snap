@@ -6,8 +6,9 @@ exports[`<IntroCard /> Snapshots should match snapshot 1`] = `
     class="sc-bwzfXH eZvUYg"
   >
     <h1
-      class="sc-bdVaJa kKxapA"
+      class="sc-bdVaJa iSigZg"
       color="white"
+      size="3"
     >
       Fastfood
     </h1>
