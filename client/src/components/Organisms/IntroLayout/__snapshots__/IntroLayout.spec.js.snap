@@ -1025,7 +1025,7 @@ exports[`<IntroLayout /> Snapshots should match snapshot 1`] = `
         color="white"
         size="3"
       >
-        Fastfood
+        Food Picker
       </h1>
       <p
         class="sc-htpNat ecPqKx"
