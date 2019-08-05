@@ -11,6 +11,10 @@ const CardWrapper = styled.div`
   background: rgba(239,121,138, 0.9);
   text-align: center;
   border-radius: 4px;
+
+  & > h1 {
+    margin-bottom: 0;
+  }
 `
 
 const CardSubtitle = styled.p`
@@ -18,6 +22,22 @@ const CardSubtitle = styled.p`
   font-weight: 300;
   font-size: 2rem;
   margin: 0;
+`
+
+const CardTwitter = styled.p`
+  color: white;
+  margin: 0;
+  font-size: 0.875rem;
+
+  & > a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+
+    &:hover {
+      opacity: 0.8;
+    }
+  }
 `
 
 const StartButton = styled.button`
@@ -30,6 +50,7 @@ const StartButton = styled.button`
 
   &:hover {
     cursor: pointer;
+    opacity: 0.8;
   }
 
   &:focus {
@@ -43,6 +64,7 @@ const IntroCard = ({ onClick }) => {
       <Title color="white" size="3">
         Fastfood
       </Title>
+
       <CardSubtitle>
         Argue less, eat more
       </CardSubtitle>
@@ -50,6 +72,10 @@ const IntroCard = ({ onClick }) => {
       <StartButton onClick={onClick}>
         Let's go !
       </StartButton>
+
+      <CardTwitter>
+        Made by <a href="http://twitter.com/christo_kade">@christo_kade</a>
+      </CardTwitter>
     </CardWrapper>
   )
 }
