@@ -8,7 +8,7 @@ afterEach(cleanup);
 describe("<EmojiLayout />", () => {
   describe("Snapshots", () => {
     it("should match snapshot", () => {
-      const { container } = render(<EmojiLayout onClick={() => { }} />);
+      const { container } = render(<EmojiLayout onClick={() => { }} selections={[]} />);
       expect(container).toMatchSnapshot();
     });
   })

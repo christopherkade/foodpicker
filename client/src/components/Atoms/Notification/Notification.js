@@ -1,4 +1,5 @@
 import React from "react"
+import PropTypes from 'prop-types';
 import styled from "styled-components"
 
 const StyledNotification = styled.div`
@@ -22,6 +23,10 @@ const Notification = ({ error }) => {
       }
     </>
   )
+}
+
+Notification.propTypes = {
+  error: PropTypes.string
 }
 
 export default Notification

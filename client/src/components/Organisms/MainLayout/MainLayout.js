@@ -4,7 +4,6 @@ import styled from "styled-components"
 import useWebsockets from "hooks/useWebsockets"
 import { EmojiLayout } from "components/Molecules/EmojiLayout"
 import { Link } from "components/Atoms/Link"
-import { UserSelection } from "components/Atoms/UserSelection"
 import { Button } from "components/Atoms/Button"
 import { CompareModal } from "components/Molecules/CompareModal"
 import { Notification } from "components/Atoms/Notification"
@@ -46,16 +45,13 @@ const BottomWrapper = styled.div`
   width: 100%;
   bottom: 0;
   text-align: center;
-  margin-top: 1rem;
-
-  @media (max-width: 1024px) {
-    position: fixed;
-    bottom: 0.625rem;
-  }
+  position: fixed;
+  bottom: 0.625rem;
 `
 
 const MainLayout = () => {
-  const [selections, setSelections] = useState(Array(4).fill({ name: "", emoji: "" }))
+  const [selections, setSelections] = useState([])
+  const [position, setPosition] = useState(0)
   const [compared, setCompared] = useState(false)
   const [{ link, sessionId, userId, foodCount, error }, { addFood }] = useWebsockets()
 
@@ -67,15 +63,12 @@ const MainLayout = () => {
    */
   const handleEmoijiClick = (name, emoji) => {
     setSelections((oldSelections) => {
-      // Find the first empty item
-      let index = oldSelections.findIndex((oldSelection) => oldSelection.name === "")
-
-      if (index === -1) {
-        oldSelections = Array(4).fill({ name: "", emoji: "" })
-        index = 0;
-      }
-      oldSelections.splice(index, 1, { name, emoji })
+      oldSelections.splice(position, 1, { name, emoji })
       addFood([...oldSelections], sessionId, userId)
+
+      // When we have reached the maximum number of items, go back to 0, otherwise move to the next one
+      position >= 3 ? setPosition(0) : setPosition(prevPosition => prevPosition + 1)
+
       return [...oldSelections]
     })
   }
@@ -83,19 +76,22 @@ const MainLayout = () => {
   return (
     <Wrapper>
       <Notification error={error} />
+
       <TopWrapper>
         <InfoWrapper>
           <Title size="1.5">Pick up to 4 types of food</Title>
           <Link link={link} />
         </InfoWrapper>
-        <EmojiLayout onClick={handleEmoijiClick} />
+
+        <EmojiLayout onClick={handleEmoijiClick} selections={selections} />
       </TopWrapper>
+
       <BottomWrapper>
-        <UserSelection selections={selections} />
-        <Button onClick={() => setCompared(true)}>
+        <Button onClick={() => setCompared(true)} isShaking={selections.length === 4}>
           See results
         </Button>
       </BottomWrapper>
+
       {compared ? <CompareModal count={foodCount} onClick={() => setCompared(false)} /> : null}
     </Wrapper>
   )

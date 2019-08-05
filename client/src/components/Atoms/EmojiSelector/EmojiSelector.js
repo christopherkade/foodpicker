@@ -7,7 +7,7 @@ const EmojiButton = styled.button`
   text-align: center;
   padding: 1.5rem;
   font-size: 1.5rem;
-  border: 1px solid white;
+  border: ${props => props.isSelected ? "1px solid red" : "1px solid white"};
 
   &:hover {
     cursor: pointer;
@@ -23,9 +23,9 @@ const EmojiButton = styled.button`
   }
 `
 
-const EmojiSelector = ({ name, emoji, onClick }) => {
+const EmojiSelector = ({ name, emoji, onClick, isSelected }) => {
   return (
-    <EmojiButton onClick={() => onClick(name, emoji)} title={name}>
+    <EmojiButton onClick={() => onClick(name, emoji)} title={name} isSelected={isSelected}>
       <span role="img" aria-label={name}>{emoji}</span>
     </EmojiButton>
   )

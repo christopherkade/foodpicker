@@ -1,4 +1,5 @@
 import React from "react"
+import PropTypes from 'prop-types';
 import styled from "styled-components"
 
 import { EmojiSelector } from "components/Atoms/EmojiSelector"
@@ -13,12 +14,24 @@ const Wrapper = styled.ul`
   padding: 0;
 `
 
-const EmojiLayout = ({ onClick }) => {
+const EmojiLayout = ({ onClick, selections }) => {
   return (
     <Wrapper>
-      {data.foods.map(food => <EmojiSelector name={food.name} emoji={food.emoji} key={food.name} onClick={onClick} />)}
+      {data.foods.map(food =>
+        <EmojiSelector
+          name={food.name}
+          emoji={food.emoji}
+          key={food.name}
+          onClick={onClick}
+          isSelected={selections.some(selection => selection.name === food.name)}
+        />)}
     </Wrapper>
   )
+}
+
+EmojiLayout.propTypes = {
+  onClick: PropTypes.func,
+  selections: PropTypes.array
 }
 
 export default EmojiLayout
