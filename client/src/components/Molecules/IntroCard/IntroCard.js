@@ -62,7 +62,7 @@ const IntroCard = ({ onClick }) => {
   return (
     <CardWrapper>
       <Title color="white" size="3">
-        Fastfood
+        Food Picker
       </Title>
 
       <CardSubtitle>
