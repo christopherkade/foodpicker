@@ -7,21 +7,34 @@ import { MainLayout } from "./components/Organisms/MainLayout"
 const App = () => {
   const [started, setStarted] = useState(false)
 
-  // On launch, check if the user is coming from a shared URL
+  /**
+   * On launch, check if the user is coming from a referal URL
+   */
   useEffect(() => {
-    const { href } = window.location
-    const urlContents = href.split("/")
+    const { pathname } = window.location
 
-    if (urlContents[urlContents.length - 1] === "") return
+    // The user isn't coming from a referal link, keep them here
+    if (pathname === "/" || pathname.includes("producthunt")) return
 
+    // They are, launch the application
     setStarted(true)
   }, [])
+
+  const launch = () => {
+    // Check if the URL contains a product hunt search query
+    // If so, remove it on launch
+    if (window.location.search) {
+      window.history.replaceState(null, null, window.location.pathname);
+    }
+
+    setStarted(true)
+  }
 
   return (
     <>
       {
         !started ?
-          <IntroLayout onClick={() => setStarted(true)} />
+          <IntroLayout onClick={launch} />
           : <MainLayout />
       }
     </>
